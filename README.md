@@ -24,8 +24,8 @@
 ## Дополнительная информация
 
 ### Контакты и социальные сети:
-- 📧 Email: [xflame0xx@gmail.com](mailto:Xflame0xx@gmail.com)
-- 💻 GitHub: [Ваш ник на GitHub](https://github.com/yourusername)
+- 📧 Email: [xflame0xx@gmail.com](Xflame0xx@gmail.com)
+- 💻 GitHub: [xflame0xx](https://github.com/xflame0xx)
 - ✈️ Telegram: [Xflame0x](https://t.me/Xflame0x)
 
 ### Хобби и интересы:
