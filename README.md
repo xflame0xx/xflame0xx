@@ -1,9 +1,16 @@
-## Привет меня зовут илья 😄
+<div align="center">
+  
+## Sup, i'm Ilya 😄
+### Student of the Polar State University 🇷🇺
+
+</div>
+
+
+
+
+
 
 <!--
-**xflame0xx/xflame0xx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
