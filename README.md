@@ -36,6 +36,7 @@
 ### Хобби и интересы:
 - 🎵 Музыка
 - 🏀 Спорт
+- 💻 игры
   <p align="center">
   <img src="https://media.tenor.com/UbPoIZecNhMAAAAi/jjba-jojo.gif"  width="300" alt="Meme" />
 </p>
