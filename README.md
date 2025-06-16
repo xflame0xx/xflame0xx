@@ -2,7 +2,7 @@
   
 ## Sup, i'm Ilya 😄
 <p align="center">
-  <img src="https://giphy.com/gifs/wb-O0Hj7piBBnU0E" width="400" />
+  <img src="https://giphy.com/gifs/wb-O0Hj7piBBnU0E" width="400" alt="Ken Watanabe" />
 ### Student of the Polar State University 🇷🇺
 
 </div>
