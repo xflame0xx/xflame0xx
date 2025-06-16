@@ -2,6 +2,9 @@
   
 ## Sup, i'm Ilya 😄
 <p align="center">
+  <img src="https://media1.tenor.com/m/31044VVA7iMAAAAC/mewing-cat.gif  width="300" alt="Meme" />
+</p>
+
   
 ### Student of the Polar State University 🇷🇺
 
