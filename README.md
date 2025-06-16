@@ -1,6 +1,8 @@
 <div align="center">
   
 ## Sup, i'm Ilya 😄
+<p align="center">
+  <img src="https://tenor.com/ru/view/jjba-jojo-jojos-bizarre-adventure-bizzarecord-gif-24814876" width="400" />
 ### Student of the Polar State University 🇷🇺
 
 </div>
